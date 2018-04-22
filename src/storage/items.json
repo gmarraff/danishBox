@@ -1,0 +1,30 @@
+[
+    {
+        "code": "SW03",
+        "id": 17,
+        "name": "Forbici",
+        "type": 2,
+        "utility": 50
+    },
+    {
+        "code": "SW05",
+        "id": 18,
+        "name": "Toppa",
+        "type": 2,
+        "utility": 6
+    },
+    {
+        "affective": false,
+        "code": "AA04",
+        "id": 13,
+        "name": "Bastone",
+        "type": 0
+    },
+    {
+        "affective": false,
+        "code": "AA05",
+        "id": 14,
+        "name": "Figurina",
+        "type": 0
+    }
+]

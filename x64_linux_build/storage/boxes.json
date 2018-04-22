@@ -1,0 +1,101 @@
+[
+    {
+        "capacity": 10,
+        "code": "Biscotti",
+        "color": 1,
+        "id": 1,
+        "items": [
+            {
+                "code": "BS01",
+                "dimension": 5,
+                "good": false,
+                "id": -1,
+                "type": 1
+            },
+            {
+                "code": "BS24",
+                "dimension": 2,
+                "good": true,
+                "id": -1,
+                "type": 1
+            },
+            {
+                "code": "BS31",
+                "dimension": 5,
+                "good": true,
+                "id": -1,
+                "type": 1
+            },
+            {
+                "code": "BS45",
+                "dimension": 8,
+                "good": true,
+                "id": -1,
+                "type": 1
+            }
+        ],
+        "size": 0
+    },
+    {
+        "capacity": 15,
+        "code": "Cucito",
+        "color": 0,
+        "id": 2,
+        "items": [
+            {
+                "code": "SW01",
+                "id": 15,
+                "name": "Ago",
+                "type": 2,
+                "utility": 100
+            },
+            {
+                "code": "SW02",
+                "id": 16,
+                "name": "Filo",
+                "type": 2,
+                "utility": 90
+            }
+        ],
+        "size": 0
+    },
+    {
+        "capacity": 9,
+        "code": "Giocattoli",
+        "color": 2,
+        "id": 3,
+        "items": [
+            {
+                "affective": true,
+                "code": "AA01",
+                "id": 10,
+                "name": "Pupazzo",
+                "type": 0
+            },
+            {
+                "affective": false,
+                "code": "AA02",
+                "id": 11,
+                "name": "Biglia",
+                "type": 0
+            },
+            {
+                "affective": true,
+                "code": "AA03",
+                "id": 12,
+                "name": "Fionda",
+                "type": 0
+            }
+        ],
+        "size": 0
+    },
+    {
+        "capacity": 26,
+        "code": "Vuota",
+        "color": 4,
+        "id": 4,
+        "items": [
+        ],
+        "size": 0
+    }
+]

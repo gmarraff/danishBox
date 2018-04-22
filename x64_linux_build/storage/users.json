@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "password": "�iv��A\u0004\u0015��\b�M�\u0015߱g��s�K��\u001fo*�H�\u0018",
+        "surname": "admin",
+        "type": 0,
+        "username": "admin"
+    },
+    {
+        "id": 2,
+        "name": "grandma",
+        "password": "��>j-�^�{�\u0019'�d����Ϗ�n���+�V�4�\u000b",
+        "surname": "grandma",
+        "type": 2,
+        "username": "grandma"
+    },
+    {
+        "id": 3,
+        "name": "kiddo",
+        "password": "3���\u0010ӭ\u001e#�%�6s�R��n\u0001��M�\u000f�X�\f��*",
+        "surname": "kiddo",
+        "type": 1,
+        "username": "kiddo"
+    }
+]
