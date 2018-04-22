@@ -25,11 +25,12 @@ sudo chmod +x danishBox
 ```
 That will open the main window.<br>
 There are 3 users you can play with:<br>
+
 username | password
----      | ...     
-admin    | admin
-grandma  | grandma
-kiddo    | kiddo
+--- | ---
+admin | admin
+grandma | grandma
+kiddo | kiddo
 
 You can find a brief user's guide inside *report[ITA].pdf*.
 
